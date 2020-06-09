@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<grid>
+  <MenuItem>
+      <Name>   </Name>
+      <Price>  </Price>
+      <Description>  </Description>
+      <Image>  </Image>
+   </MenuItem>
+   
+   <MenuItem>
+      <Name>   </Name>
+      <Price>  </Price>
+      <Description>  </Description>
+      <Image>  </Image>
+   </MenuItem>
+   
+   <MenuItem>
+      <Name>   </Name>
+      <Price>  </Price>
+      <Description>  </Description>
+      <Image>  </Image>
+   </MenuItem>
+   
+   <MenuItem>
+      <Name>   </Name>
+      <Price>  </Price>
+      <Description>  </Description>
+      <Image>  </Image>
+   </MenuItem>
+   
+   <MenuItem>
+      <Name>   </Name>
+      <Price>  </Price>
+      <Description>  </Description>
+      <Image>  </Image>
+   </MenuItem>
+   
+   <MenuItem>
+      <Name>   </Name>
+      <Price>  </Price>
+      <Description>  </Description>
+      <Image>  </Image>
+   </MenuItem>
+   
+   <MenuItem>
+      <Name>   </Name>
+      <Price>  </Price>
+      <Description>  </Description>
+      <Image>  </Image>
+   </MenuItem>
+</grid>
+</Updater>
