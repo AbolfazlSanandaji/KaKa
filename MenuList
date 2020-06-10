@@ -2,16 +2,16 @@
 <version>1.0.0.0</version>
 <grid>
   <MenuItem>
-      <Name>   </Name>
+      <Name> آش و ماش  </Name>
       <Price>  </Price>
-      <Description>  </Description>
+      <Description> خوش مزه </Description>
       <Image>  </Image>
    </MenuItem>
    
    <MenuItem>
-      <Name>   </Name>
+      <Name> کباب   </Name>
       <Price>  </Price>
-      <Description>  </Description>
+      <Description> به همراه نوشابه و دوغ </Description>
       <Image>  </Image>
    </MenuItem>
    
