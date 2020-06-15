@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
+<version>1.0.0.0.0</version>
+<BackgroundColor>Red</BackgroundColor>
 
 <grid>
- <version>1.0.0.0.0</version>
-<BackgroundColor>Red</BackgroundColor>
-<DateUpdate>1399</DateUpdate>
+ 
   <MenuItem>
       <Name> آش و ماش  </Name>
       <Price>  </Price>
