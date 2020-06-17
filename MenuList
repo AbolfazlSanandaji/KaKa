@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <setting>
-<version>1.0.0.0.3</version>
+<version>1.0.0.0.4</version>
 <BackgroundColor>Red</BackgroundColor>
 <UpdateTime>1399</UpdateTime>
 <grid>
  
   <MenuItem>
-      <Name> آش و پاش  </Name>
+      <Name> آش   </Name>
       <Price>  </Price>
       <Description> خوش مزه </Description>
       <Image>http://s6.picofile.com/file/8390045418/12.jpg</Image>
    </MenuItem>
    
    <MenuItem>
-      <Name>  ترش کباب   </Name>
+      <Name>   کباب   </Name>
       <Price>  </Price>
       <Description> به همراه نوشابه و دوغ </Description>
       <Image>http://s6.picofile.com/file/8390045418/12.jpg</Image>
