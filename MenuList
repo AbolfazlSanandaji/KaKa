@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <setting>
-<version>1.0.0.0.18</version>
+<version>1.0.0.0.20</version>
 <BackgroundColor>Red</BackgroundColor>
 <UpdateTime>1399</UpdateTime>
 <grid>
@@ -55,7 +55,7 @@
    </MenuItem>
 
    <MenuItem>
-      <Name> سبزی پلو با ماهی سفید  </Name>
+      <Name>  ماهی سفید  </Name>
       <Price> 23000 </Price>
       <Description> سالم و خوشمزه </Description>
       <Image>  http://s12.picofile.com/file/8403532526/Sabzi_Polo_Maahi.jpg </Image>
