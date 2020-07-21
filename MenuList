@@ -40,13 +40,7 @@
       <Image> http://s13.picofile.com/file/8403529400/ghormehsabzi.jpg </Image>
    </MenuItem>
    
-   <MenuItem>
-      <Name>   </Name>
-      <Price>  </Price>
-      <Description>  </Description>
-      <Image>  </Image>
-   </MenuItem>
-   
+    
    <MenuItem>
       <Name> قیمه  </Name>
       <Price> 17000 </Price>
