@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <setting>
-<version>1.0.0.0.7</version>
+<version>1.0.0.0.8</version>
 <BackgroundColor>Red</BackgroundColor>
 <UpdateTime>1399</UpdateTime>
 <grid>
  
   <MenuItem>
-      <Name> آش   </Name>
+      <Name> کباب کوبیده  </Name>
       <Price>  </Price>
-      <Description> خوش مزه </Description>
+      <Description> 70 گرم گوشت کوبیده  </Description>
       <Image>http://s6.picofile.com/file/8390045418/12.jpg</Image>
    </MenuItem>
    
    <MenuItem>
-      <Name>   کباب   </Name>
+      <Name>   مرغ   </Name>
       <Price>  </Price>
       <Description> به همراه نوشابه و دوغ </Description>
       <Image>http://s6.picofile.com/file/8390045418/12.jpg</Image>
    </MenuItem>
    
    <MenuItem>
-      <Name>   </Name>
+      <Name> ماهی  </Name>
       <Price>  </Price>
       <Description>  </Description>
       <Image>  </Image>
