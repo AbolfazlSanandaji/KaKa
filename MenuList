@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <setting>
-<version>1.0.0.0.15</version>
+<version>1.0.0.0.17</version>
 <BackgroundColor>Red</BackgroundColor>
 <UpdateTime>1399</UpdateTime>
 <grid>
@@ -8,43 +8,36 @@
   <MenuItem>
       <Name> کباب کوبیده  </Name>
       <Price>  </Price>
-      <Description> 70 گرم گوشت کوبیده  </Description>
-      <Image>http://s6.picofile.com/file/8390045418/12.jpg</Image>
+      <Description>سالم و خوشمزه  </Description>
+      <Image>http://s12.picofile.com/file/8403529392/kababkubide.jpg</Image>
    </MenuItem>
    
    <MenuItem>
-      <Name>   مرغ   </Name>
+      <Name> زرشک پلو با مرغ </Name>
       <Price>  </Price>
-      <Description> به همراه نوشابه و دوغ </Description>
-      <Image>http://s6.picofile.com/file/8390045418/12.jpg</Image>
+      <Description> سالم و خوشمزه </Description>
+      <Image>http://s12.picofile.com/file/8403528084/morgh.jpg</Image>
    </MenuItem>
    
    <MenuItem>
-      <Name> ماهی  </Name>
+      <Name> مرغ ترش  </Name>
       <Price>  </Price>
-      <Description>  </Description>
-      <Image>  </Image>
+      <Description>سالم و خوشمزه   </Description>
+      <Image> http://s13.picofile.com/file/8403529418/morghtorsh.jpg </Image>
    </MenuItem>
    
    <MenuItem>
-      <Name>   </Name>
+      <Name>  کباب جوجه </Name>
       <Price>  </Price>
-      <Description>  </Description>
-      <Image>  </Image>
+      <Description> سالم و خوشمزه </Description>
+      <Image> http://s12.picofile.com/file/8403529892/kababjooje.jpg </Image>
    </MenuItem>
    
    <MenuItem>
-      <Name>   </Name>
+      <Name>  قرمه سبزی </Name>
       <Price>  </Price>
-      <Description>  </Description>
-      <Image>  </Image>
-   </MenuItem>
-   
-   <MenuItem>
-      <Name>   </Name>
-      <Price>  </Price>
-      <Description>  </Description>
-      <Image>  </Image>
+      <Description> سالم و خوشمزه </Description>
+      <Image> http://s13.picofile.com/file/8403529400/ghormehsabzi.jpg </Image>
    </MenuItem>
    
    <MenuItem>
@@ -52,6 +45,20 @@
       <Price>  </Price>
       <Description>  </Description>
       <Image>  </Image>
+   </MenuItem>
+   
+   <MenuItem>
+      <Name> قیمه  </Name>
+      <Price> 17000 </Price>
+      <Description> سالم و خوشمزه </Description>
+      <Image> http://s13.picofile.com/file/8403529326/gheyme.jpg </Image>
+   </MenuItem>
+
+   <MenuItem>
+      <Name> سبزی پلو با ماهی سفید  </Name>
+      <Price> 23000 </Price>
+      <Description> سالم و خوشمزه </Description>
+      <Image>  http://s12.picofile.com/file/8403532526/Sabzi_Polo_Maahi.jpg </Image>
    </MenuItem>
 </grid>
 </setting>
